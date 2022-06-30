@@ -1,6 +1,6 @@
 # LoggingAPI
 The following component diagram illustrates the desired software design for the Log API.
-![alt text](https://github.com/ansuddin7/LoggingAPI/blob/master/Logging_API_Component_diagram.drawio.png?raw=true)
+![alt text](https://github.com/ansuddin7/LoggingAPI/blob/main/Logging_API_Component_diagram.drawio.png?raw=true)
 
 As part of the coding test I have implemented logging to the console and flat file. 
 
