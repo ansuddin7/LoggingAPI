@@ -1,0 +1,8 @@
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
+ApplicationID: string, TraceID: stringSeverity: Trace, Timestamp: 30-06-2022 18:13:01,Message: string, ComponentName: string, RequestID: 
